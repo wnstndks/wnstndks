@@ -1,3 +1,2 @@
-# Hi there 👋
-
-I'm interested in developing web server
+# Hi, there ~ 🖐️
+### I am interested in web development. 🧑‍💻
