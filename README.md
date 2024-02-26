@@ -1,2 +1,2 @@
 # Hi, there ~ 🖐️
-### I am interested in Data Analytics and web development 🧑‍💻
+### I am interested in web development 🧑‍💻
