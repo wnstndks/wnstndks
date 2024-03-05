@@ -1,2 +1,3 @@
 # Hi, there ~ 🖐️
-### I am interested in web development 🧑‍💻
+### I am interested in web development 
+### And thesedays, I study React🧑‍💻
