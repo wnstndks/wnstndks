@@ -1,5 +1,5 @@
 # Hi, there ~ 🖐️
-### Thesedays, I study web development🧑‍💻
+### I am full stack developer🧑‍💻
 
 
 
