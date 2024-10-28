@@ -1,16 +1,16 @@
 # Hi there! 👋 I'm Junsu An
 
-Living in **Seoul, South Korea**, I am currently a **Data Science** major at **Sejong University**. 
-I'm passionate about continuous learning and enjoy tackling challenges in **web design**, **data analytics**, **AI-powered solutions**, and **IT consulting**.
+Living in **Seoul, South Korea**, I am currently a **Data Science** major at **Sejong University**.
+I'm passionate about continuous learning and enjoy tackling challenges in **project management**, **web design**, **data analytics**, and **AI-powered solutions**.
 
 ---
 
 ## 🔥 Areas of Interest
-- **Web Development & Design**: Creating efficient, sleek web applications using Next.js and TypeScript.
+- **Project Management (PM)**: Leading tech projects from concept to delivery, balancing creativity with structure for maximum impact.
+- **Web Development & Design**: Building efficient, sleek web applications using Next.js and TypeScript.
 - **Data Analytics & AI**: Leveraging machine learning and statistical analysis to gain insights and solve real-world problems.
-- **Project Management**: Coordinating and executing tech projects that blend creativity and structure to maximize impact.
 - **IT Consulting**: Providing strategic guidance and technical solutions to improve business efficiency and scalability.
-- **Educational Roles**: Sharing insights and building learning opportunities through content creation and public speaking.
+- **Educational Roles**: Sharing insights and creating learning opportunities through content creation and public speaking.
 
 ## 🧑‍💻 Current Projects
 1. **Instagram Clone Project** - Developing a social media platform with enhanced UI/UX using Next.js
@@ -21,21 +21,22 @@ I'm passionate about continuous learning and enjoy tackling challenges in **web 
 
 ## 🌱 Goals and Aspirations
 - **Join Google Korea** and gain experience at a global tech company.
-- Pursue a career in **IT consulting** and **project management**, helping businesses thrive with digital transformation.
-- Build an impactful **educational consulting** career, eventually giving **public lectures** to share insights and knowledge.
-- Growing consistently by committing to **daily Git contributions**, **blog writing**, and **reading**.
+- Build a career in **Project Management**, overseeing impactful projects that drive digital transformation.
+- Pursue a career in **IT consulting**, helping businesses scale with technology.
+- Develop an **educational consulting** career, eventually giving **public lectures** to share insights and knowledge.
+- Commit to personal growth by making **daily Git contributions**, **writing blogs**, and **reading regularly**.
 
 ## 🏆 Small Habits for Growth
-- Daily **Git commits** to keep track of progress
-- Regular **blog posts** to share and reinforce learning
-- Continuous **reading** of technical books and research papers
+- Daily **Git commits** to track progress
+- Regular **blog posts** to reinforce learning and share knowledge
+- Consistent **reading** of technical books and research papers to stay current
 
 ---
 
 ## 🌐 Contact
 - **Email**: [anjs9912@gmail.com](mailto:anjs9912@gmail.com)
-- **Blog**: [Personal Blog](https://soocorn.tistory.com)
+- **Blog**: [https://soocorn.tistory.com](https://soocorn.tistory.com)
 
 ---
 
-Feel free to reach out if you're interested in **projects**, **collaboration**, or **consulting opportunities**! 😄
+Feel free to reach out if you're interested in **project management**, **collaborations**, or **consulting opportunities**! 😄
